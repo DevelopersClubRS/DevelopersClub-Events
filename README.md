@@ -26,7 +26,7 @@ List of events organised by Developers Club
 
 🧑‍🏫 BDD #16 - Programski jezici - Analiza upotrebe i zajednice 
 
-[🧑‍🏫 BDD #15 - VeloxDB - A locally grown database 🚀](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/BDD/BDD-15)
+[🧑‍🏫 BDD #15 - VeloxDB - A locally grown database](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/BDD/BDD-15)
 
 👥 BDD #14 - Mentalno zdravlje, sprečavanje pregorevanja i proces oporavka
 
