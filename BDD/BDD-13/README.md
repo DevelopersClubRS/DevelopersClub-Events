@@ -1,6 +1,6 @@
 ### SLAJDOVI 
 
-- [BDD13SLAJDOVI](./BDD13.pdf)
+- [BDD13SLAJDOVI](BDD13.pdf)
 
 ---
 

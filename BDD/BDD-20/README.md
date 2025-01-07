@@ -1,6 +1,6 @@
 ### SLAJDOVI 
 
-- [BDD20 SLAJDOVI](./SoftwareArchitectureFromFirstPrinciples.pdf)
+- [BDD20 SLAJDOVI](SoftwareArchitectureFromFirstPrinciples.pdf)
 
 ### RESURSI
 - VIDEO SNIMAK https://youtu.be/XtYFpaeEaNQ
