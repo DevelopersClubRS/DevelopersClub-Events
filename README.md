@@ -10,9 +10,9 @@ List of events organised by Developers Club
 
 ### 2024. / 2025.
 
-[🧑‍🏫 BDD 25 - VIBE CODING](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-25) 
+[🧑‍🏫 BDD #25 - VIBE CODING](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-25) 
 
-[🧑‍🏫🧑‍🏫 BDD 24 - Tech Talk #1 - Vector Search 101 && Event Streams kao metod integracija sistema](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-24) 
+[🧑‍🏫🧑‍🏫 BDD #24 - Tech Talk #1 - Vector Search 101 && Event Streams kao metod integracija sistema](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-24) 
 
 [🧑‍🏫 BDD#21 - LLM Powered Apps](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-21) 
 
