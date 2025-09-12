@@ -6,11 +6,13 @@ List of events organised by Developers Club
 
 ## Events
 
+### 2025. / 2026.
+
 ---
 
 ### 2024. / 2025.
 
-[[👥 BDD #26 - HETZNER VS AWS](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-26) 
+[👥 BDD #26 - HETZNER VS AWS](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-26) 
 
 [🧑‍🏫 BDD #25 - VIBE CODING](https://github.com/DevelopersClubRS/DevelopersClub-Events/tree/main/meetups/bdd-25) 
 
