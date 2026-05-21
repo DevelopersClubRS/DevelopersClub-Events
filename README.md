@@ -8,7 +8,7 @@ List of events organised by Developers Club
 
 ### 2025. / 2026.
 
-[👥BDD #30 - PART 1 - LLM kao CASE alat - best practices - manifest](https://www.youtube.com/live/j4UjD4L1ybI?si=_mV8bDxSWX3KBb81) 
+[👥 BDD #30 - PART 1 - LLM kao CASE alat - best practices - manifest](https://www.youtube.com/live/j4UjD4L1ybI?si=_mV8bDxSWX3KBb81) 
 
 [👥 BDD #29 - PANEL DISKUSIJA - Agentic Coding / LLM](https://www.youtube.com/live/HnWUtWDZshw?si=mJJQkwodi92K3Nyc) 
 
