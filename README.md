@@ -12,10 +12,10 @@ List of events organised by Developers Club
 
 [👥 BDD #29 - PANEL DISKUSIJA - Agentic Coding / LLM](https://www.youtube.com/live/HnWUtWDZshw?si=mJJQkwodi92K3Nyc) 
 
-[👥 BDD #28 Unison: A New Programming Paradigm](https://youtu.be/acuh6ZbKoZQ?si=G1wZh6uCg-5-Y3uZ) 
+[🧑‍🏫 BDD #28 Unison: A New Programming Paradigm](https://youtu.be/acuh6ZbKoZQ?si=G1wZh6uCg-5-Y3uZ) 
 
 
-[👥 BDD #22 - Serverless i Event-Driven Arhitektura na AWS-u](https://www.youtube.com/watch?v=c0Mx0QbmHQE) 
+[🧑‍🏫 BDD #22 - Serverless i Event-Driven Arhitektura na AWS-u](https://www.youtube.com/watch?v=c0Mx0QbmHQE) 
 
 
 ---
